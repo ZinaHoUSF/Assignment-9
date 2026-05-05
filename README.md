@@ -1,0 +1,3 @@
+# About Assignment 9
+
+Assignment 9 focuses on using data frames for the first time to do understand data structure, perform data metrics, and ensure that any issues are noted throughout the process. I would figure out sales performance between different regions, products, and amount of sales to figure out what was the best outcome per category, region, etc. Then, any missing values I would detect, and fill the values in so I would know what data needs to be filled and how much in percentage were missing. Eventually I would create a summary, and calculate the average and the total, to then be printed out. 
